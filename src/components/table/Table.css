@@ -1,0 +1,18 @@
+.button-container {
+  display: flex;
+  flex-direction: flex-start;
+  padding: 54px 0 30px 0;
+}
+
+.burger-button {
+  border: none;
+  background-color: transparent;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: flex-start;
+  cursor: pointer;
+}
+
+.MuiDataGrid-cell {
+  white-space: normal !important;
+}
